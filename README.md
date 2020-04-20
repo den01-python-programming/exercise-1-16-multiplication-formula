@@ -1,21 +1,25 @@
-# Exercise 1.15 - Addition formula
+# Exercise 1.16 - Mutiplication formula
 
-Create a program that can be used to add two integers together. In the beginning, the user is asked to give two integers that are to be summed. The program then prints the formula that describes the addition of the numbers.
+Similar to the previous exercise, create a program that multiplies the values stored in two integer variables.
+
+For instance, if the entered numbers are 2 and 8, the program should print the following:
 
 Example output:
 
 ```plaintext
 Give the first number:
-*8*
+*2*
 Give the second number:
-*3*
-8 + 3 = 11
+*8*
+2 * 8 = 16
 ```
+
+Likewise, if the entered numbers are 277 and 111, the print should be the following:
 
 ```plaintext
 Give the first number:
-*73457*
+*277*
 Give the second number:
-*12888*
-73457 + 12888 = 86345
+*111*
+277 * 111 = 30747
 ```
