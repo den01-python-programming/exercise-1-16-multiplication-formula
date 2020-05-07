@@ -1,4 +1,4 @@
-# Exercise 1.16 - Mutiplication formula
+# Exercise 1.16 - Multiplication formula
 
 Similar to the previous exercise, create a program that multiplies the values stored in two integer variables.
 
